@@ -1,0 +1,24 @@
+# Python cache files
+__pycache__/
+
+# Virtual environment files
+.env
+.venv/
+venv/
+
+# Compiled Python files
+*.pyc
+
+# macOS files
+.DS_Store
+
+# Node modules
+node_modules/
+
+# Build directories
+/dist/
+/build/
+
+# IDE configurations
+/.idea/
+.vscode/
