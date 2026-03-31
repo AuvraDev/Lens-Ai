@@ -1,0 +1,9 @@
+[tool]
+name = "Lens AI"
+version = "1.0.0"
+description = "Cultural heritage preservation AI platform under Auvra"
+author = "AuvraDev"
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
